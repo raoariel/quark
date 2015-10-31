@@ -6,3 +6,12 @@
 
 # Mac desktop service store files
 *.DS_Store
+
+# Leave unused Ynot files out of SC
+*.hg_archival.txt
+*.hgignore
+ynot/Makefile
+ynot/examples/*
+ynot/src/Makefile
+ynot/src/coq/*
+ynot/src/ocaml/*
