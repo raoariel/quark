@@ -8,6 +8,8 @@
    http://goto.ucsd.edu/quark/
 *)
 
+Add LoadPath "/Users/arielrao/Documents/Perrier/src/quark/ynot/src/coq-quark-compilation/".
+
 Require Import Ynot.
 Require Import Basis.
 Require Import List.

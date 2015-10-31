@@ -1,4 +1,6 @@
-Require Import Ynot.Extract.
+Add LoadPath "/Users/arielrao/Documents/Perrier/src/quark/ynot/src/coq-quark-compilation/".
+
+Require Import Extract.
 Require Import Datatypes.
 Require Import List.
 Require Import Ascii.
