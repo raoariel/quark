@@ -1,0 +1,8 @@
+# Compiled Coq Files
+*.vo
+*.glob
+*.v.d
+
+
+# Mac desktop service store files
+*.DS_Store
